@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626319945273",
+    "project_id": "room360-360522",
+    "storage_bucket": "room360-360522.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626319945273:android:07d87767f0814385a0a7e8",
+        "android_client_info": {
+          "package_name": "com.JuanUseche.Room360"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626319945273-gmsu6b0sq4jj1iv4hervndgcjp2a10gq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjKS9PAphF4vKc5O8SdkiaIWYwpk7o6SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626319945273-gmsu6b0sq4jj1iv4hervndgcjp2a10gq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
